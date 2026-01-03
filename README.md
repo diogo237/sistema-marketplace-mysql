@@ -1,2 +1,2 @@
-# sistema-marketplace-mysql
-Banco de dados desenvolvido no MySQL Workbench para um marketplace online, com gerenciamento de fornecedores, produtos, clientes, pedidos, pagamentos e entregas.
+Sistema de Marketplace - MySQL  
+Banco de dados criado no MySQL Workbench para gerenciar fornecedores, produtos, clientes, pedidos e pagamentos de um marketplace.
